@@ -21,7 +21,10 @@ pip install -r requirements.txt
 
 🚀 Run the App
 python app.py
-![WhatsApp Image 2025-06-26 at 16 36 10_473296f7](https://github.com/user-attachments/assets/66adcaea-f935-4e1b-83c9-145ab1040144)
+![Screenshot (189)](https://github.com/user-attachments/assets/7ea719b2-cd00-4541-80a1-78e48940a837)
+![Screenshot (183)](https://github.com/user-attachments/assets/5304b3fb-6f82-4e28-a5ad-e183efaebc67)
+
+
 
 
 
